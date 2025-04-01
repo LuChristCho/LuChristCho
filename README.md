@@ -1,6 +1,7 @@
 <div align="center">
 
 ![Terminal](https://github.com/LuChristCho/LuChristCho/raw/main/assets/term.gif)
+<p style="margin-top: -5px;">Loading Gif...</p> <br>
 
 ### Having fun with these stack:
 
