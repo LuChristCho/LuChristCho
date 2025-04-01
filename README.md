@@ -29,7 +29,7 @@
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/masihsheikhi)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:masihsheikhii@gmail.com)
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/lochristcho)
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/luchristcho)
 
 ### 
 
