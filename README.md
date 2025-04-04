@@ -1,7 +1,11 @@
 <div align="center">
 
-![Terminal](https://github.com/LuChristCho/LuChristCho/raw/main/assets/term.gif)
-<p style="margin-top: -5px;">Loading Gif...</p> <br>
+<div>
+    <img src="https://github.com/LuChristCho/LuChristCho/raw/main/assets/term.gif" 
+         onload="this.nextElementSibling.style.display='none'" 
+         onerror="this.nextElementSibling.textContent='Failed to load GIF'">
+    <p>Loading Gif...</p>
+</div>
 
 ### Having fun with these stack:
 
