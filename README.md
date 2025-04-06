@@ -27,7 +27,7 @@
 [<img src="https://skillicons.dev/icons?i=pytorch" width="28" height="28">](https://pytorch.org/)
 [<img src="https://skillicons.dev/icons?i=tensorflow" width="28" height="28">](https://www.tensorflow.org/)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuChristCho&layout=compact&hide=Jupyter%20Notebook&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuChristCho&layout=compact&hide=Jupyter%20Notebook&theme=radical&random=12345)
 
 ### Socials:
 
