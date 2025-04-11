@@ -40,4 +40,5 @@
 
 ### 
 
-</div>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&letterSpacing=&duration=3000&pause=1500&color=F7F7F7&center=true&vCenter=true&width=435&lines=Live+Under+Codes;Hide+Reasons+In+Silent+Thoughts;Create+Hope+Outwardly.)
