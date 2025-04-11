@@ -30,7 +30,7 @@
 [<img src="https://skillicons.dev/icons?i=idea" width="28" height="28">](https://www.jetbrains.com/idea/)
 [<img src="https://skillicons.dev/icons?i=vscode" width="28" height="28">](https://code.visualstudio.com/)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuChristCho&layout=compact&hide=Jupyter%20Notebook&theme=radical&random=12345)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuChristCho&layout=compact&hide=Jupyter%20Notebook&theme=radical&random=12345)
 
 ### Socials:
 
