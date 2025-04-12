@@ -34,9 +34,9 @@
 
 ### Socials:
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/masihsheikhi)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:masihsheikhii@gmail.com)
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/luchristcho)
+[<img src="https://github.com/LuChristCho/LuChristCho/blob/main/assets/linkedin_logo.png" width="50" height="50">](https://linkedin.com/in/masihsheikhi)
+[<img src="https://github.com/LuChristCho/LuChristCho/blob/main/assets/gmail_logo.png" width="50" height="50">](mailto:masihsheikhii@gmail.com)
+[<img src="https://github.com/LuChristCho/LuChristCho/blob/main/assets/discord_logo.png" width="50" height="50">](https://discordapp.com/users/luchristcho)
 
 ### 
 
