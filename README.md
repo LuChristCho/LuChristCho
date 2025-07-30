@@ -20,7 +20,7 @@
 [<img src="https://skillicons.dev/icons?i=matlab" width="28" height="28">](https://www.mathworks.com/products/matlab.html)
 [<img src="https://skillicons.dev/icons?i=git" width="28" height="28">](https://git-scm.com/)
 [<img src="https://skillicons.dev/icons?i=docker" width="28" height="28">](https://www.docker.com/)
-[<img src="https://skillicons.dev/icons?i=ps" width="28" height="28">](https://www.adobe.com/products/photoshop.html) <br style="line-height: 0.5;">
+[<img src="https://skillicons.dev/icons?i=ps" width="28" height="28">](https://www.adobe.com/products/photoshop.html)
 [<img src="https://skillicons.dev/icons?i=postgres" width="28" height="28">](https://www.postgresql.org/)
 [<img src="https://skillicons.dev/icons?i=sqlite" width="28" height="28">](https://sqlite.org/)
 [<img src="https://skillicons.dev/icons?i=flask" width="28" height="28">](https://flask.palletsprojects.com/)
