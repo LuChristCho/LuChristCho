@@ -1,7 +1,7 @@
 <div align="center">
 
 <div>
-    <img src="https://github.com/LuChristCho/LuChristCho/raw/main/assets/term.gif" 
+    <img src="https://github.com/LuChristCho/LuChristCho/raw/main/assets/term2.gif" 
          onload="this.nextElementSibling.style.display='none'" 
          onerror="this.nextElementSibling.textContent='Failed to load GIF'">
 </div>
@@ -30,10 +30,3 @@
 [<img src="https://skillicons.dev/icons?i=vscode" width="28" height="28">](https://code.visualstudio.com/)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuChristCho&hide=Jupyter%20Notebook&theme=dark&show_icons=true&hide_border=true&layout=compact&random=12345)
-
-### Socials:
-
-[<img src="https://github.com/LuChristCho/LuChristCho/blob/main/assets/linkedin_logo.png" width="50" height="50">](https://linkedin.com/in/masihsheikhi)
-[<img src="https://github.com/LuChristCho/LuChristCho/blob/main/assets/gmail_logo.png" width="50" height="50">](mailto:masihsheikhii@gmail.com)
-[<img src="https://github.com/LuChristCho/LuChristCho/blob/main/assets/discord_logo.png" width="50" height="50">](https://discordapp.com/users/luchristcho)
-
