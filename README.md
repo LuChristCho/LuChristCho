@@ -1,11 +1,3 @@
-<div align="center">
-
-<div>
-    <img src="https://github.com/LuChristCho/LuChristCho/raw/main/assets/term2.gif" 
-         onload="this.nextElementSibling.style.display='none'" 
-         onerror="this.nextElementSibling.textContent='Failed to load GIF'">
-</div>
-
 ### Having fun with these stack:
 
 [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
