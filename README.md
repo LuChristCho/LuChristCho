@@ -7,19 +7,17 @@
 [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
 [![R](https://skillicons.dev/icons?i=r)](https://www.r-project.org/)
 [![C](https://skillicons.dev/icons?i=c)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![TF](https://skillicons.dev/icons?i=tensorflow)](https://www.tensorflow.org/)
+[![Torch](https://skillicons.dev/icons?i=pytorch)](https://pytorch.org/)
 
+[<img src="https://skillicons.dev/icons?i=js" width="28" height="28">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img src="https://skillicons.dev/icons?i=html" width="28" height="28">](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img src="https://skillicons.dev/icons?i=css" width="28" height="28">](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<img src="https://skillicons.dev/icons?i=cpp" width="28" height="28">](https://isocpp.org/)
 [<img src="https://skillicons.dev/icons?i=kotlin" width="28" height="28">](https://kotlinlang.org/)
-[<img src="https://skillicons.dev/icons?i=latex" width="28" height="28">](https://www.latex-project.org/)
 [<img src="https://skillicons.dev/icons?i=matlab" width="28" height="28">](https://www.mathworks.com/products/matlab.html)
-[<img src="https://skillicons.dev/icons?i=docker" width="28" height="28">](https://www.docker.com/)
 [<img src="https://skillicons.dev/icons?i=postgres" width="28" height="28">](https://www.postgresql.org/)
 [<img src="https://skillicons.dev/icons?i=flask" width="28" height="28">](https://flask.palletsprojects.com/)
-[<img src="https://skillicons.dev/icons?i=pytorch" width="28" height="28">](https://pytorch.org/)
-[<img src="https://skillicons.dev/icons?i=tensorflow" width="28" height="28">](https://www.tensorflow.org/)
 
 
 <br>
