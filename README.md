@@ -22,6 +22,6 @@
 
 <br>
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=LuChristCho&layout=donut&langs_count=6&theme=aura)
+![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=LuChristCho&layout=donut&langs_count=5&theme=chartreuse-dark)
 
 </div>
