@@ -22,6 +22,6 @@
 
 <br>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuChristCho&hide=Jupyter%20Notebook&theme=dark&show_icons=true&hide_border=true&layout=compact&random=12345)
+![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=LuChristCho&layout=donut&langs_count=6&theme=aura)
 
 </div>
